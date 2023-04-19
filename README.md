@@ -12,7 +12,7 @@
 **第三步：** 模型训练、预测并输出分类报告
 采用数值化和标准化处理后的数据集，进行SVM算法分类并输出混淆矩阵和分类报告，从精确率：precision、召回率：recall、 调和平均f1值:f1-score和支持度:support四个维度评价分类预测效果。
 
-### 二、文件说明
+#### 二、文件说明
 **（1）数据集**  
 原始的数据集：kddcup.data.txt  
 数值化后的数据集：kddcup.data.numerization.txt  
